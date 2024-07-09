@@ -1,0 +1,337 @@
+num_estimator,frac,voting,train_acc,val_acc,model,bootstrap
+1,0.15,hard,0.1761487964989059,0.21397379912663755,"Layer: [in:11] [out:6] [activation:Softmax]
+",True
+1,0.15,hard,0.40809628008752735,0.39737991266375544,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",True
+1,0.15,hard,0.5404814004376368,0.4978165938864629,<__main__.DecisionTree object at 0x7f950c8cc9a0>,True
+1,0.15,hard,0.1652078774617068,0.1965065502183406,"Layer: [in:11] [out:6] [activation:Softmax]
+",False
+1,0.15,hard,0.387308533916849,0.36681222707423583,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",False
+1,0.15,hard,0.574398249452954,0.4890829694323144,<__main__.DecisionTree object at 0x7f950c8cc9a0>,False
+1,0.15,soft,0.1673960612691466,0.21397379912663755,"Layer: [in:11] [out:6] [activation:Softmax]
+",True
+1,0.15,soft,0.4026258205689278,0.388646288209607,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",True
+1,0.15,soft,0.526258205689278,0.4847161572052402,<__main__.DecisionTree object at 0x7f950c8cc9a0>,True
+1,0.15,soft,0.16958424507658643,0.2183406113537118,"Layer: [in:11] [out:6] [activation:Softmax]
+",False
+1,0.15,soft,0.4048140043763676,0.38427947598253276,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",False
+1,0.15,soft,0.4912472647702407,0.3930131004366812,<__main__.DecisionTree object at 0x7f950c8cc9a0>,False
+1,0.25,hard,0.16301969365426697,0.2183406113537118,"Layer: [in:11] [out:6] [activation:Softmax]
+",True
+1,0.25,hard,0.3993435448577681,0.37117903930131,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",True
+1,0.25,hard,0.5153172866520788,0.4017467248908297,<__main__.DecisionTree object at 0x7f950c8cc9a0>,True
+1,0.25,hard,0.16083150984682712,0.20087336244541484,"Layer: [in:11] [out:6] [activation:Softmax]
+",False
+1,0.25,hard,0.39606126914660833,0.388646288209607,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",False
+1,0.25,hard,0.6367614879649891,0.5152838427947598,<__main__.DecisionTree object at 0x7f950c8cc9a0>,False
+1,0.25,soft,0.1652078774617068,0.22270742358078602,"Layer: [in:11] [out:6] [activation:Softmax]
+",True
+1,0.25,soft,0.4026258205689278,0.37554585152838427,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",True
+1,0.25,soft,0.6061269146608315,0.537117903930131,<__main__.DecisionTree object at 0x7f950c8cc9a0>,True
+1,0.25,soft,0.16630196936542668,0.2183406113537118,"Layer: [in:11] [out:6] [activation:Softmax]
+",False
+1,0.25,soft,0.4201312910284464,0.4017467248908297,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",False
+1,0.25,soft,0.5798687089715536,0.5065502183406113,<__main__.DecisionTree object at 0x7f950c8cc9a0>,False
+1,0.5,hard,0.16301969365426697,0.21397379912663755,"Layer: [in:11] [out:6] [activation:Softmax]
+",True
+1,0.5,hard,0.41684901531728663,0.3799126637554585,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",True
+1,0.5,hard,0.6455142231947484,0.5545851528384279,<__main__.DecisionTree object at 0x7f950c8cc9a0>,True
+1,0.5,hard,0.16630196936542668,0.21397379912663755,"Layer: [in:11] [out:6] [activation:Softmax]
+",False
+1,0.5,hard,0.40043763676148797,0.38427947598253276,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",False
+1,0.5,hard,0.6280087527352297,0.5589519650655022,<__main__.DecisionTree object at 0x7f950c8cc9a0>,False
+1,0.5,soft,0.16301969365426697,0.2183406113537118,"Layer: [in:11] [out:6] [activation:Softmax]
+",True
+1,0.5,soft,0.40153172866520787,0.3799126637554585,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",True
+1,0.5,soft,0.5733041575492341,0.47161572052401746,<__main__.DecisionTree object at 0x7f950c8cc9a0>,True
+1,0.5,soft,0.16083150984682712,0.21397379912663755,"Layer: [in:11] [out:6] [activation:Softmax]
+",False
+1,0.5,soft,0.4026258205689278,0.36681222707423583,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",False
+1,0.5,soft,0.5393873085339168,0.519650655021834,<__main__.DecisionTree object at 0x7f950c8cc9a0>,False
+3,0.15,hard,0.1652078774617068,0.21397379912663755,"Layer: [in:11] [out:6] [activation:Softmax]
+",True
+3,0.15,hard,0.40153172866520787,0.37554585152838427,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",True
+3,0.15,hard,0.5536105032822757,0.537117903930131,<__main__.DecisionTree object at 0x7f950c8cc9a0>,True
+3,0.15,hard,0.17067833698030635,0.1965065502183406,"Layer: [in:11] [out:6] [activation:Softmax]
+",False
+3,0.15,hard,0.412472647702407,0.388646288209607,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",False
+3,0.15,hard,0.574398249452954,0.43231441048034935,<__main__.DecisionTree object at 0x7f950c8cc9a0>,False
+3,0.15,soft,0.16411378555798686,0.22270742358078602,"Layer: [in:11] [out:6] [activation:Softmax]
+",True
+3,0.15,soft,0.4135667396061269,0.388646288209607,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",True
+3,0.15,soft,0.6269146608315098,0.5240174672489083,<__main__.DecisionTree object at 0x7f950c8cc9a0>,True
+3,0.15,soft,0.1652078774617068,0.20087336244541484,"Layer: [in:11] [out:6] [activation:Softmax]
+",False
+3,0.15,soft,0.3927789934354486,0.3624454148471616,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",False
+3,0.15,soft,0.5557986870897156,0.49344978165938863,<__main__.DecisionTree object at 0x7f950c8cc9a0>,False
+3,0.25,hard,0.1673960612691466,0.21397379912663755,"Layer: [in:11] [out:6] [activation:Softmax]
+",True
+3,0.25,hard,0.41684901531728663,0.388646288209607,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",True
+3,0.25,hard,0.611597374179431,0.5109170305676856,<__main__.DecisionTree object at 0x7f950c8cc9a0>,True
+3,0.25,hard,0.16192560175054704,0.2052401746724891,"Layer: [in:11] [out:6] [activation:Softmax]
+",False
+3,0.25,hard,0.4037199124726477,0.38427947598253276,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",False
+3,0.25,hard,0.6269146608315098,0.5240174672489083,<__main__.DecisionTree object at 0x7f950c8cc9a0>,False
+3,0.25,soft,0.1652078774617068,0.21397379912663755,"Layer: [in:11] [out:6] [activation:Softmax]
+",True
+3,0.25,soft,0.4037199124726477,0.37554585152838427,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",True
+3,0.25,soft,0.6455142231947484,0.5327510917030568,<__main__.DecisionTree object at 0x7f950c8cc9a0>,True
+3,0.25,soft,0.16411378555798686,0.21397379912663755,"Layer: [in:11] [out:6] [activation:Softmax]
+",False
+3,0.25,soft,0.3982494529540481,0.37554585152838427,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",False
+3,0.25,soft,0.6433260393873085,0.5458515283842795,<__main__.DecisionTree object at 0x7f950c8cc9a0>,False
+3,0.5,hard,0.16849015317286653,0.2183406113537118,"Layer: [in:11] [out:6] [activation:Softmax]
+",True
+3,0.5,hard,0.4026258205689278,0.388646288209607,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",True
+3,0.5,hard,0.6706783369803063,0.5414847161572053,<__main__.DecisionTree object at 0x7f950c8cc9a0>,True
+3,0.5,hard,0.16192560175054704,0.2096069868995633,"Layer: [in:11] [out:6] [activation:Softmax]
+",False
+3,0.5,hard,0.40700218818380746,0.38427947598253276,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",False
+3,0.5,hard,0.6630196936542669,0.5545851528384279,<__main__.DecisionTree object at 0x7f950c8cc9a0>,False
+3,0.5,soft,0.16192560175054704,0.21397379912663755,"Layer: [in:11] [out:6] [activation:Softmax]
+",True
+3,0.5,soft,0.3993435448577681,0.37117903930131,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",True
+3,0.5,soft,0.6280087527352297,0.5283842794759825,<__main__.DecisionTree object at 0x7f950c8cc9a0>,True
+3,0.5,soft,0.1652078774617068,0.21397379912663755,"Layer: [in:11] [out:6] [activation:Softmax]
+",False
+3,0.5,soft,0.4026258205689278,0.37554585152838427,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",False
+3,0.5,soft,0.6772428884026258,0.5807860262008734,<__main__.DecisionTree object at 0x7f950c8cc9a0>,False
+5,0.15,hard,0.16301969365426697,0.21397379912663755,"Layer: [in:11] [out:6] [activation:Softmax]
+",True
+5,0.15,hard,0.4037199124726477,0.3799126637554585,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",True
+5,0.15,hard,0.6072210065645515,0.5458515283842795,<__main__.DecisionTree object at 0x7f950c8cc9a0>,True
+5,0.15,hard,0.1673960612691466,0.21397379912663755,"Layer: [in:11] [out:6] [activation:Softmax]
+",False
+5,0.15,hard,0.40153172866520787,0.37554585152838427,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",False
+5,0.15,hard,0.6291028446389497,0.5283842794759825,<__main__.DecisionTree object at 0x7f950c8cc9a0>,False
+5,0.15,soft,0.1652078774617068,0.21397379912663755,"Layer: [in:11] [out:6] [activation:Softmax]
+",True
+5,0.15,soft,0.4059080962800875,0.37117903930131,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",True
+5,0.15,soft,0.6597374179431073,0.5545851528384279,<__main__.DecisionTree object at 0x7f950c8cc9a0>,True
+5,0.15,soft,0.16192560175054704,0.2096069868995633,"Layer: [in:11] [out:6] [activation:Softmax]
+",False
+5,0.15,soft,0.3982494529540481,0.38427947598253276,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",False
+5,0.15,soft,0.6061269146608315,0.5240174672489083,<__main__.DecisionTree object at 0x7f950c8cc9a0>,False
+5,0.25,hard,0.16411378555798686,0.21397379912663755,"Layer: [in:11] [out:6] [activation:Softmax]
+",True
+5,0.25,hard,0.3971553610503282,0.37554585152838427,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",True
+5,0.25,hard,0.6356673960612691,0.519650655021834,<__main__.DecisionTree object at 0x7f950c8cc9a0>,True
+5,0.25,hard,0.16301969365426697,0.21397379912663755,"Layer: [in:11] [out:6] [activation:Softmax]
+",False
+5,0.25,hard,0.4037199124726477,0.37554585152838427,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",False
+5,0.25,hard,0.6630196936542669,0.5720524017467249,<__main__.DecisionTree object at 0x7f950c8cc9a0>,False
+5,0.25,soft,0.16958424507658643,0.21397379912663755,"Layer: [in:11] [out:6] [activation:Softmax]
+",True
+5,0.25,soft,0.40043763676148797,0.388646288209607,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",True
+5,0.25,soft,0.6684901531728665,0.5807860262008734,<__main__.DecisionTree object at 0x7f950c8cc9a0>,True
+5,0.25,soft,0.16301969365426697,0.21397379912663755,"Layer: [in:11] [out:6] [activation:Softmax]
+",False
+5,0.25,soft,0.40043763676148797,0.37554585152838427,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",False
+5,0.25,soft,0.6542669584245077,0.6026200873362445,<__main__.DecisionTree object at 0x7f950c8cc9a0>,False
+5,0.5,hard,0.1673960612691466,0.21397379912663755,"Layer: [in:11] [out:6] [activation:Softmax]
+",True
+5,0.5,hard,0.40700218818380746,0.388646288209607,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",True
+5,0.5,hard,0.6695842450765864,0.5676855895196506,<__main__.DecisionTree object at 0x7f950c8cc9a0>,True
+5,0.5,hard,0.1673960612691466,0.21397379912663755,"Layer: [in:11] [out:6] [activation:Softmax]
+",False
+5,0.5,hard,0.4026258205689278,0.3799126637554585,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",False
+5,0.5,hard,0.6892778993435449,0.5764192139737991,<__main__.DecisionTree object at 0x7f950c8cc9a0>,False
+5,0.5,soft,0.16630196936542668,0.21397379912663755,"Layer: [in:11] [out:6] [activation:Softmax]
+",True
+5,0.5,soft,0.40043763676148797,0.37554585152838427,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",True
+5,0.5,soft,0.700218818380744,0.6026200873362445,<__main__.DecisionTree object at 0x7f950c8cc9a0>,True
+5,0.5,soft,0.16411378555798686,0.21397379912663755,"Layer: [in:11] [out:6] [activation:Softmax]
+",False
+5,0.5,soft,0.3982494529540481,0.37554585152838427,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",False
+5,0.5,soft,0.6849015317286652,0.5895196506550219,<__main__.DecisionTree object at 0x7f950c8cc9a0>,False
+8,0.15,hard,0.16849015317286653,0.2096069868995633,"Layer: [in:11] [out:6] [activation:Softmax]
+",True
+8,0.15,hard,0.39606126914660833,0.37554585152838427,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",True
+8,0.15,hard,0.6564551422319475,0.5283842794759825,<__main__.DecisionTree object at 0x7f950c8cc9a0>,True
+8,0.15,hard,0.1673960612691466,0.21397379912663755,"Layer: [in:11] [out:6] [activation:Softmax]
+",False
+8,0.15,hard,0.40700218818380746,0.37554585152838427,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",False
+8,0.15,hard,0.6258205689277899,0.5327510917030568,<__main__.DecisionTree object at 0x7f950c8cc9a0>,False
+8,0.15,soft,0.1652078774617068,0.2096069868995633,"Layer: [in:11] [out:6] [activation:Softmax]
+",True
+8,0.15,soft,0.40809628008752735,0.3799126637554585,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",True
+8,0.15,soft,0.650984682713348,0.5633187772925764,<__main__.DecisionTree object at 0x7f950c8cc9a0>,True
+8,0.15,soft,0.16411378555798686,0.21397379912663755,"Layer: [in:11] [out:6] [activation:Softmax]
+",False
+8,0.15,soft,0.39606126914660833,0.37554585152838427,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",False
+8,0.15,soft,0.6487964989059081,0.5283842794759825,<__main__.DecisionTree object at 0x7f950c8cc9a0>,False
+8,0.25,hard,0.1652078774617068,0.2183406113537118,"Layer: [in:11] [out:6] [activation:Softmax]
+",True
+8,0.25,hard,0.39606126914660833,0.3799126637554585,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",True
+8,0.25,hard,0.6575492341356673,0.5589519650655022,<__main__.DecisionTree object at 0x7f950c8cc9a0>,True
+8,0.25,hard,0.16849015317286653,0.21397379912663755,"Layer: [in:11] [out:6] [activation:Softmax]
+",False
+8,0.25,hard,0.40153172866520787,0.3930131004366812,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",False
+8,0.25,hard,0.6258205689277899,0.5065502183406113,<__main__.DecisionTree object at 0x7f950c8cc9a0>,False
+8,0.25,soft,0.16630196936542668,0.21397379912663755,"Layer: [in:11] [out:6] [activation:Softmax]
+",True
+8,0.25,soft,0.4048140043763676,0.3799126637554585,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",True
+8,0.25,soft,0.6794310722100656,0.5895196506550219,<__main__.DecisionTree object at 0x7f950c8cc9a0>,True
+8,0.25,soft,0.16411378555798686,0.21397379912663755,"Layer: [in:11] [out:6] [activation:Softmax]
+",False
+8,0.25,soft,0.40700218818380746,0.388646288209607,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",False
+8,0.25,soft,0.6772428884026258,0.5982532751091703,<__main__.DecisionTree object at 0x7f950c8cc9a0>,False
+8,0.5,hard,0.16958424507658643,0.21397379912663755,"Layer: [in:11] [out:6] [activation:Softmax]
+",True
+8,0.5,hard,0.4026258205689278,0.3799126637554585,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",True
+8,0.5,hard,0.7045951859956237,0.5545851528384279,<__main__.DecisionTree object at 0x7f950c8cc9a0>,True
+8,0.5,hard,0.1673960612691466,0.21397379912663755,"Layer: [in:11] [out:6] [activation:Softmax]
+",False
+8,0.5,hard,0.40043763676148797,0.36681222707423583,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",False
+8,0.5,hard,0.6969365426695843,0.537117903930131,<__main__.DecisionTree object at 0x7f950c8cc9a0>,False
+8,0.5,soft,0.16630196936542668,0.21397379912663755,"Layer: [in:11] [out:6] [activation:Softmax]
+",True
+8,0.5,soft,0.4026258205689278,0.37554585152838427,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",True
+8,0.5,soft,0.6914660831509847,0.5720524017467249,<__main__.DecisionTree object at 0x7f950c8cc9a0>,True
+8,0.5,soft,0.16411378555798686,0.21397379912663755,"Layer: [in:11] [out:6] [activation:Softmax]
+",False
+8,0.5,soft,0.3971553610503282,0.37554585152838427,"Layer: [in:11] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:16] [activation:Sigmoid]
+Layer: [in:16] [out:6] [activation:Softmax]
+",False
+8,0.5,soft,0.6936542669584245,0.5414847161572053,<__main__.DecisionTree object at 0x7f950c8cc9a0>,False

@@ -1,0 +1,337 @@
+num_estimator,frac,voting,train_acc,val_acc,model,bootstrap
+1,0.15,hard,0.6299216346230366,0.45681122017172204,"Layer: [in:13] [out:1] [activation:Linear]
+",True
+1,0.15,hard,0.08929557460313886,-0.15884038075966367,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",True
+1,0.15,hard,0.7650257435971874,0.5833046164731733,<__main__.DecisionTree object at 0x7f950cae8520>,True
+1,0.15,hard,0.6493834113168203,0.6593248393175799,"Layer: [in:13] [out:1] [activation:Linear]
+",False
+1,0.15,hard,-0.17976499725884554,-0.8833370082686232,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",False
+1,0.15,hard,0.6111113809041993,0.22992483391023755,<__main__.DecisionTree object at 0x7f950cae8520>,False
+1,0.15,soft,0.38119738380541957,-0.04468036762326255,"Layer: [in:13] [out:1] [activation:Linear]
+",True
+1,0.15,soft,-0.5290453922816543,-1.3834771522444056,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",True
+1,0.15,soft,0.6655948706345105,0.4526586030241926,<__main__.DecisionTree object at 0x7f950cae8520>,True
+1,0.15,soft,0.6836629496687533,0.6493601811653864,"Layer: [in:13] [out:1] [activation:Linear]
+",False
+1,0.15,soft,-0.5147398957523492,-1.9067118763921567,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",False
+1,0.15,soft,0.5746617950929203,0.4446656766286037,<__main__.DecisionTree object at 0x7f950cae8520>,False
+1,0.25,hard,0.6874674183610298,0.5554110752888244,"Layer: [in:13] [out:1] [activation:Linear]
+",True
+1,0.25,hard,0.1068138728676089,-0.3896556192164762,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",True
+1,0.25,hard,0.6659206146586234,0.6112634941368598,<__main__.DecisionTree object at 0x7f950cae8520>,True
+1,0.25,hard,0.6573590735011008,0.6186310232243257,"Layer: [in:13] [out:1] [activation:Linear]
+",False
+1,0.25,hard,-0.05316374161462023,-0.598627192610369,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",False
+1,0.25,hard,0.7180221012126101,0.3781683772062132,<__main__.DecisionTree object at 0x7f950cae8520>,False
+1,0.25,soft,0.7144784867131486,0.7030348680272567,"Layer: [in:13] [out:1] [activation:Linear]
+",True
+1,0.25,soft,0.21833240186695324,0.09551204311954309,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",True
+1,0.25,soft,0.7207012710990054,0.5978136771805899,<__main__.DecisionTree object at 0x7f950cae8520>,True
+1,0.25,soft,0.6341349632828736,0.5099168118029256,"Layer: [in:13] [out:1] [activation:Linear]
+",False
+1,0.25,soft,-0.06798494727014859,-0.664277435911538,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",False
+1,0.25,soft,0.7326373116369882,0.26349929033702413,<__main__.DecisionTree object at 0x7f950cae8520>,False
+1,0.5,hard,0.6850896556860848,0.7310098468710104,"Layer: [in:13] [out:1] [activation:Linear]
+",True
+1,0.5,hard,0.47670788502020134,0.4854064284148346,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",True
+1,0.5,hard,0.7960958835148477,0.5443774086185429,<__main__.DecisionTree object at 0x7f950cae8520>,True
+1,0.5,hard,0.7102781079362701,0.7355788685855549,"Layer: [in:13] [out:1] [activation:Linear]
+",False
+1,0.5,hard,0.5631779447860104,0.39493059755814885,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",False
+1,0.5,hard,0.8767195218009418,0.6581915627972,<__main__.DecisionTree object at 0x7f950cae8520>,False
+1,0.5,soft,0.7137707438641665,0.7485624263815346,"Layer: [in:13] [out:1] [activation:Linear]
+",True
+1,0.5,soft,0.5845530582682664,0.3590444007491216,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",True
+1,0.5,soft,0.8205121787564803,0.6050687034349305,<__main__.DecisionTree object at 0x7f950cae8520>,True
+1,0.5,soft,0.7018131091999336,0.6298797830927212,"Layer: [in:13] [out:1] [activation:Linear]
+",False
+1,0.5,soft,0.5920413617144858,0.17895825829971468,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",False
+1,0.5,soft,0.7872682951733245,0.6073905101965726,<__main__.DecisionTree object at 0x7f950cae8520>,False
+3,0.15,hard,0.6765054729654085,0.7866009480279079,"Layer: [in:13] [out:1] [activation:Linear]
+",True
+3,0.15,hard,0.153848232254314,-0.10335757784270094,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",True
+3,0.15,hard,0.7822150706300517,0.6255691253847865,<__main__.DecisionTree object at 0x7f950cae8520>,True
+3,0.15,hard,0.6858104620628336,0.7027593724368948,"Layer: [in:13] [out:1] [activation:Linear]
+",False
+3,0.15,hard,0.17397552756202328,-0.07374833003148451,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",False
+3,0.15,hard,0.7232569034220595,0.7104560732645798,<__main__.DecisionTree object at 0x7f950cae8520>,False
+3,0.15,soft,0.6761464474776413,0.7238039281074121,"Layer: [in:13] [out:1] [activation:Linear]
+",True
+3,0.15,soft,-0.247862554455631,-1.1043567990153589,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",True
+3,0.15,soft,0.8172303696893017,0.7362276615308756,<__main__.DecisionTree object at 0x7f950cae8520>,True
+3,0.15,soft,0.7077235448388701,0.7405668867566829,"Layer: [in:13] [out:1] [activation:Linear]
+",False
+3,0.15,soft,-0.2604624039347223,-0.8004483081452953,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",False
+3,0.15,soft,0.7440993061801573,-0.10201321493908933,<__main__.DecisionTree object at 0x7f950cae8520>,False
+3,0.25,hard,0.7023329872727407,0.6484965497946812,"Layer: [in:13] [out:1] [activation:Linear]
+",True
+3,0.25,hard,0.46366204328005156,0.258342815135716,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",True
+3,0.25,hard,0.8315312202585238,0.7547308531404473,<__main__.DecisionTree object at 0x7f950cae8520>,True
+3,0.25,hard,0.719398124795178,0.6845804833940761,"Layer: [in:13] [out:1] [activation:Linear]
+",False
+3,0.25,hard,0.3739891280227249,0.2023661477201273,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",False
+3,0.25,hard,0.819452293150331,0.7131693109255219,<__main__.DecisionTree object at 0x7f950cae8520>,False
+3,0.25,soft,0.7178121979306198,0.6859241373802761,"Layer: [in:13] [out:1] [activation:Linear]
+",True
+3,0.25,soft,0.37792154724238025,-0.15996101199935686,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",True
+3,0.25,soft,0.8452175425892063,0.5775727692713786,<__main__.DecisionTree object at 0x7f950cae8520>,True
+3,0.25,soft,0.6746630715248887,0.6562860656455932,"Layer: [in:13] [out:1] [activation:Linear]
+",False
+3,0.25,soft,0.38081754570791737,-0.185422005615399,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",False
+3,0.25,soft,0.8194034627194715,0.6808671064612986,<__main__.DecisionTree object at 0x7f950cae8520>,False
+3,0.5,hard,0.7142512792611915,0.7099326954725055,"Layer: [in:13] [out:1] [activation:Linear]
+",True
+3,0.5,hard,0.6461547272854595,0.6030887540337038,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",True
+3,0.5,hard,0.8596168052671833,0.7809278509567212,<__main__.DecisionTree object at 0x7f950cae8520>,True
+3,0.5,hard,0.7080180076847086,0.6513793466224723,"Layer: [in:13] [out:1] [activation:Linear]
+",False
+3,0.5,hard,0.6283762309014784,0.47696045458073555,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",False
+3,0.5,hard,0.8677780531050832,0.7725138498240195,<__main__.DecisionTree object at 0x7f950cae8520>,False
+3,0.5,soft,0.7240097463981339,0.7031375369728146,"Layer: [in:13] [out:1] [activation:Linear]
+",True
+3,0.5,soft,0.6804521215442787,0.6080753526939993,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",True
+3,0.5,soft,0.8771052713594762,0.5983890673371131,<__main__.DecisionTree object at 0x7f950cae8520>,True
+3,0.5,soft,0.7247345804930496,0.7352062728617532,"Layer: [in:13] [out:1] [activation:Linear]
+",False
+3,0.5,soft,0.6128144019372939,0.5953977305635046,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",False
+3,0.5,soft,0.8437056823581942,0.7489535251041188,<__main__.DecisionTree object at 0x7f950cae8520>,False
+5,0.15,hard,0.7002637346520855,0.6650442932000533,"Layer: [in:13] [out:1] [activation:Linear]
+",True
+5,0.15,hard,-0.04599930332533786,-0.7815130669989199,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",True
+5,0.15,hard,0.8186007960022712,0.7205342463920603,<__main__.DecisionTree object at 0x7f950cae8520>,True
+5,0.15,hard,0.7065404544245949,0.7961653910012918,"Layer: [in:13] [out:1] [activation:Linear]
+",False
+5,0.15,hard,0.011643437139836399,-0.7601957351169599,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",False
+5,0.15,hard,0.7707512327468802,0.597364510223643,<__main__.DecisionTree object at 0x7f950cae8520>,False
+5,0.15,soft,0.678890642887167,0.7675313467949137,"Layer: [in:13] [out:1] [activation:Linear]
+",True
+5,0.15,soft,0.0022070766187760604,-0.7935357626166717,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",True
+5,0.15,soft,0.7734329362731989,0.645761013402609,<__main__.DecisionTree object at 0x7f950cae8520>,True
+5,0.15,soft,0.6960446221565721,0.7008657636376201,"Layer: [in:13] [out:1] [activation:Linear]
+",False
+5,0.15,soft,0.11425515889777216,-0.23259406341993416,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",False
+5,0.15,soft,0.7806678337945488,0.6572444086623586,<__main__.DecisionTree object at 0x7f950cae8520>,False
+5,0.25,hard,0.7115955616996956,0.7447414624252346,"Layer: [in:13] [out:1] [activation:Linear]
+",True
+5,0.25,hard,0.4710104828423338,0.20569985589756634,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",True
+5,0.25,hard,0.8028717203240647,0.7268463076755773,<__main__.DecisionTree object at 0x7f950cae8520>,True
+5,0.25,hard,0.7194302091954563,0.6831688984979059,"Layer: [in:13] [out:1] [activation:Linear]
+",False
+5,0.25,hard,0.509286072316256,0.25294544125395857,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",False
+5,0.25,hard,0.8371836707466497,0.7515314080513105,<__main__.DecisionTree object at 0x7f950cae8520>,False
+5,0.25,soft,0.7102201771464617,0.7850244530850645,"Layer: [in:13] [out:1] [activation:Linear]
+",True
+5,0.25,soft,0.46094370622255865,0.23033758368735668,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",True
+5,0.25,soft,0.8410890747162848,0.8002669668981184,<__main__.DecisionTree object at 0x7f950cae8520>,True
+5,0.25,soft,0.7148758607228228,0.6934937375380581,"Layer: [in:13] [out:1] [activation:Linear]
+",False
+5,0.25,soft,0.43725171832301457,0.38075758112606717,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",False
+5,0.25,soft,0.8308009293848174,0.6675843704856194,<__main__.DecisionTree object at 0x7f950cae8520>,False
+5,0.5,hard,0.7267305433842605,0.7165401112570914,"Layer: [in:13] [out:1] [activation:Linear]
+",True
+5,0.5,hard,0.6471145489113428,0.558226834998832,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",True
+5,0.5,hard,0.8835950517220033,0.7420767649511901,<__main__.DecisionTree object at 0x7f950cae8520>,True
+5,0.5,hard,0.7237673328964791,0.7521490404431314,"Layer: [in:13] [out:1] [activation:Linear]
+",False
+5,0.5,hard,0.6629652872133242,0.5797830618177787,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",False
+5,0.5,hard,0.8753076680057891,0.7143099396844812,<__main__.DecisionTree object at 0x7f950cae8520>,False
+5,0.5,soft,0.7180095520459586,0.6480485398773681,"Layer: [in:13] [out:1] [activation:Linear]
+",True
+5,0.5,soft,0.6669782079843568,0.6156130530008868,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",True
+5,0.5,soft,0.8718803668124872,0.7370754851932321,<__main__.DecisionTree object at 0x7f950cae8520>,True
+5,0.5,soft,0.7226873073025579,0.6541217119404797,"Layer: [in:13] [out:1] [activation:Linear]
+",False
+5,0.5,soft,0.6581054977077814,0.5437198156464618,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",False
+5,0.5,soft,0.8823882853567465,0.781757173776679,<__main__.DecisionTree object at 0x7f950cae8520>,False
+8,0.15,hard,0.7029615273254868,0.6412770148789397,"Layer: [in:13] [out:1] [activation:Linear]
+",True
+8,0.15,hard,0.058083470214958854,-1.0159297248257806,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",True
+8,0.15,hard,0.82917306901786,0.7746331689929982,<__main__.DecisionTree object at 0x7f950cae8520>,True
+8,0.15,hard,0.6584821896674179,0.6224707073859997,"Layer: [in:13] [out:1] [activation:Linear]
+",False
+8,0.15,hard,0.1915654516231715,-0.2938441623432071,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",False
+8,0.15,hard,0.8308570244091887,0.6415167490584499,<__main__.DecisionTree object at 0x7f950cae8520>,False
+8,0.15,soft,0.7049376798748889,0.6997455030356055,"Layer: [in:13] [out:1] [activation:Linear]
+",True
+8,0.15,soft,0.11649991493343492,-0.12161194366129147,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",True
+8,0.15,soft,0.8243430843632308,0.8009560810932593,<__main__.DecisionTree object at 0x7f950cae8520>,True
+8,0.15,soft,0.7151162192003543,0.6895401750255409,"Layer: [in:13] [out:1] [activation:Linear]
+",False
+8,0.15,soft,0.17442516738890657,-0.31197386847344966,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",False
+8,0.15,soft,0.8212997731707865,0.7530133448195228,<__main__.DecisionTree object at 0x7f950cae8520>,False
+8,0.25,hard,0.7158581006292843,0.7502050591952599,"Layer: [in:13] [out:1] [activation:Linear]
+",True
+8,0.25,hard,0.5135536141926544,0.3960589042467544,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",True
+8,0.25,hard,0.8491815684451575,0.7992135686284275,<__main__.DecisionTree object at 0x7f950cae8520>,True
+8,0.25,hard,0.7139479131394245,0.6972481356127964,"Layer: [in:13] [out:1] [activation:Linear]
+",False
+8,0.25,hard,0.4879905646609526,0.3232185210046634,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",False
+8,0.25,hard,0.8404677202650068,0.821622434890775,<__main__.DecisionTree object at 0x7f950cae8520>,False
+8,0.25,soft,0.7241417847556516,0.7256196409458453,"Layer: [in:13] [out:1] [activation:Linear]
+",True
+8,0.25,soft,0.5198197423457731,0.35534103638654924,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",True
+8,0.25,soft,0.842303429628144,0.8137529589783646,<__main__.DecisionTree object at 0x7f950cae8520>,True
+8,0.25,soft,0.7179871077935087,0.7326692547323457,"Layer: [in:13] [out:1] [activation:Linear]
+",False
+8,0.25,soft,0.47010092576514306,0.3240200862148511,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",False
+8,0.25,soft,0.8803930124295056,0.7649006733771472,<__main__.DecisionTree object at 0x7f950cae8520>,False
+8,0.5,hard,0.7271110067171227,0.7121841638841582,"Layer: [in:13] [out:1] [activation:Linear]
+",True
+8,0.5,hard,0.6064567257516591,0.530871572391121,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",True
+8,0.5,hard,0.8841055239556695,0.74679569400292,<__main__.DecisionTree object at 0x7f950cae8520>,True
+8,0.5,hard,0.7278912614814876,0.7238028816374525,"Layer: [in:13] [out:1] [activation:Linear]
+",False
+8,0.5,hard,0.6881675852674343,0.5561347181007059,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",False
+8,0.5,hard,0.9066703748299859,0.7795446773361276,<__main__.DecisionTree object at 0x7f950cae8520>,False
+8,0.5,soft,0.7252018583838524,0.7407289831748896,"Layer: [in:13] [out:1] [activation:Linear]
+",True
+8,0.5,soft,0.6691660428599238,0.540234867503403,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",True
+8,0.5,soft,0.8923417409104764,0.7902259313067783,<__main__.DecisionTree object at 0x7f950cae8520>,True
+8,0.5,soft,0.7272349364706391,0.6983562008805966,"Layer: [in:13] [out:1] [activation:Linear]
+",False
+8,0.5,soft,0.6489613015110658,0.5952963507086693,"Layer: [in:13] [out:16] [activation:Tanh]
+Layer: [in:16] [out:16] [activation:ReLU]
+Layer: [in:16] [out:1] [activation:Linear]
+",False
+8,0.5,soft,0.8956890649334077,0.7632051673783748,<__main__.DecisionTree object at 0x7f950cae8520>,False
