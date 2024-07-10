@@ -3,7 +3,7 @@ Statistical methods in AI - IIITH - 2023
 
 ### Assignment 1: KNN and Decision Trees
 1. Exploratory Data Analysis on the dataset.   
-2. Implementing KNN from scratch followed with testing and hyperparamter tuning.
+2. Implementing KNN from scratch followed by testing and hyperparamter tuning.
 3. Implementing Decistion Trees from scratch for multiclass and multilabel classification.
 
 ### Assignment 2: PCA, GMMs and Hierarchical Clustering
@@ -22,7 +22,7 @@ Statistical methods in AI - IIITH - 2023
     - MLP vs CNN on Permuted MNIST.
     - Presenting all results using WandB reports. 
 
-### Assignment 4: Baggin, Stacking and Boosting methods
+### Assignment 4: Bagging, Stacking and Boosting methods
 1. Implementing Bagging and Stacking from scratch and analyzing the methods.
 2. Implementing Randomg Forest classifier and Boosted Decision Trees (Decision Trees + AdaBoost and Gradient Boosted Decision Trees) from scratch and analyzing the models.
 3. Analyzing results and mistakes of the above models. 
